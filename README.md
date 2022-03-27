@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 
 ## App Store 냥냥연구소 서비스중
 나와 닮은 고양이은 어떤 고양이 일지 테스트하는 앱입니다.
+
 다양한 고양이의 특징과 성격을 볼 수 있습니다.
 
+https://apps.apple.com/kr/app/%EB%83%A5%EB%83%A5%EC%97%B0%EA%B5%AC%EC%86%8C/id1615177977
