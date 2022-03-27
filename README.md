@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 다양한 고양이의 특징과 성격을 볼 수 있습니다.
 
+![Icon](https://user-images.githubusercontent.com/66679164/160271829-05f0af81-f98e-4bb3-91a3-221e9a805dcb.png)
+
+
 https://apps.apple.com/kr/app/%EB%83%A5%EB%83%A5%EC%97%B0%EA%B5%AC%EC%86%8C/id1615177977
 
 
