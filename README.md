@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 https://apps.apple.com/kr/app/%EB%83%A5%EB%83%A5%EC%97%B0%EA%B5%AC%EC%86%8C/id1615177977
 
 
-## Notion Swift 기초 문법 정리중
+## Notion Swift 기초 문법
 https://www.notion.so/tinscoderoom/Tin-s-Code-Room-07c75d5a3d1140d5a90c7dca56b12460
 
