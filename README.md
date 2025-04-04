@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongYG77&show_icons=true&theme=radical)
+
 
 # 👋 iOS Developer 
 
@@ -68,3 +68,4 @@ https://apps.apple.com/kr/app/%EB%83%A5%EB%83%A5%EC%97%B0%EA%B5%AC%EC%86%8C/id16
 ## Notion Swift 기초 문법
 https://www.notion.so/tinscoderoom/Tin-s-Code-Room-07c75d5a3d1140d5a90c7dca56b12460
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongYG77&show_icons=true&theme=radical)
